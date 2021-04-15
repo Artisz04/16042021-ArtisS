@@ -1,0 +1,94 @@
+body{
+  font-family: Arial;
+  background-color: rgb(45, 30, 47);
+}
+
+h1{
+  color:white;
+  text-align:center;
+}
+
+img{
+  display: block;
+  margin-left: 350px;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 250px;
+  height: 100%;
+  background-image: linear-gradient(black,white );
+  position: fixed;
+  overflow: auto;
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 16px 16px;
+  text-decoration: none;
+  font-family: 'Lucida Sans';
+  font-style: bold;
+  font-size:18px;
+}
+
+
+li a:hover {
+  background-color: #555;
+  color: white;
+  font-size:26px;
+}
+
+
+li a:active{
+  background-color: white;
+}
+
+div.teksti{
+  color: black;
+}
+p{
+  boder: none;
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
